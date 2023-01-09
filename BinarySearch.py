@@ -29,3 +29,5 @@ if result != -1:
     print(f"Element {target} is present at index {result}")
 else:
     print(f"Element {target} is not present in array")
+
+# Checking: Element not found
