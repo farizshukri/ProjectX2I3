@@ -57,3 +57,4 @@ if __name__ == "__main__":
 
 # This example assumes input in seconds for simplicity.
 # You can enhance it to accept input in minutes or hours and convert them to seconds accordingly.
+# Customize the GUI further (e.g., change font styles, add additional features like pausing/resuming the timer) based on your requirements.
