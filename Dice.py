@@ -28,3 +28,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# This example assumes a standard six-sided die (hence, numbers range from 1 to 6).
