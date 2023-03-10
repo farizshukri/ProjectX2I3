@@ -32,3 +32,4 @@ if __name__ == "__main__":
 # This example assumes a standard six-sided die (hence, numbers range from 1 to 6).
 # You can extend this simulator to include multiple dice, different types of dice (e.g., 10-sided, 20-sided), 
 # or additional features like keeping track of roll history or calculating probabilities.
+# Customize the GUI further (e.g., add images of dice faces, change font sizes or styles) to suit your preferences.
