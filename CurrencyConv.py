@@ -58,3 +58,4 @@ if __name__ == "__main__":
 
 # Conversion rate
 # May differ
+# On a daily basis
