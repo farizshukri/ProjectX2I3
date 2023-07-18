@@ -56,5 +56,4 @@ if __name__ == "__main__":
     main()
 
 # This example assumes a standard six-sided die (hence, numbers range from 1 to 6).
-# You can extend this simulator to include multiple dice, different types of dice (e.g., 10-sided, 20-sided),
 
