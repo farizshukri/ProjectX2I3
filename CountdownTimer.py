@@ -56,3 +56,4 @@ if __name__ == "__main__":
     main()
 
 # This example assumes input in seconds for simplicity.
+# You can enhance it to accept input in minutes or hours and convert them to seconds accordingly.
