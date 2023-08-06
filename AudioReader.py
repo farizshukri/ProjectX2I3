@@ -33,3 +33,4 @@ if __name__ == "__main__":
 
 # This example assumes .txt files for simplicity.
 # You can extend it to support other formats or handle exceptions for unsupported files.
+# Adjust rate and volume properties in read_file() as per your preference.
