@@ -32,3 +32,4 @@ if __name__ == "__main__":
     main()
 
 # This example assumes .txt files for simplicity.
+# You can extend it to support other formats or handle exceptions for unsupported files.
