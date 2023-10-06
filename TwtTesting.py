@@ -19,4 +19,3 @@ api.update_status(tweet_message)
 
 # To be improved
 # with More features
-# This is a simple Twitter Bot
