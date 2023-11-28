@@ -17,4 +17,3 @@ api = tweepy.API(auth)
 tweet_message = "Hello, this is my first tweet using a Twitter bot!"
 api.update_status(tweet_message)
 
-# To be improved
