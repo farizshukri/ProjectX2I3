@@ -19,3 +19,4 @@ api.update_status(tweet_message)
 
 # You can modify the tweet_message variable to tweet different messages or 
 # dynamically generate tweets based on various conditions or inputs.
+# Explore the Tweepy Documentation for more advanced functionalities like retweeting, liking tweets, following users, searching tweets, etc.
